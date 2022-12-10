@@ -1,5 +1,5 @@
 # Interactive-Explainers
-Assorted links to explainers I like
+Assorted links to explainers I like.
 ### Collections
 - [Explorable Explanations](https://explorabl.es/) - Huge collection in EVERY subject.
 - [PhET](https://phet.colorado.edu/) - Huge collection, STEM.
