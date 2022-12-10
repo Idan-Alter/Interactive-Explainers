@@ -6,6 +6,7 @@ Assorted links to explainers I like.
 - [Hugging Face spaces](https://huggingface.co/spaces) - AI/ML based interactive apps.
 - [3b1b SoME1  (2021)](https://www.3blue1brown.com/blog/some1-results)
 - [3b1b SoME2 (2022)](https://www.3blue1brown.com/blog/some2)
+- [Geogebra Materials](https://www.geogebra.org/materials)
 
 ### Math
 - [My stuff (Math Laboratory)](https://idan-alter.github.io/)
