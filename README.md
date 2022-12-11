@@ -35,10 +35,12 @@ Assorted links to explainers I like.
 - [P5.js](https://editor.p5js.org/p5/sketches/Hello_P5:_drawing) - Easy interactive/ geometric coding
 - [Learn GDScript From Zero](https://github.com/GDQuest/learn-gdscript) - Easy programming and gamedev with Godot.
 - [CindyJS](https://cindyjs.org/gallery/main/)
+- [Scrimba](https://scrimba.com/) - Frontend Video courses with live coding hybrid. 
 
 ### Everything Else
 - [wave on a string (PhET)](https://phet.colorado.edu/en/simulations/wave-on-a-string)
 - [Neuron action potential (PhET)](https://phet.colorado.edu/en/simulations/neuron)
+- [Moral Machine](https://www.moralmachine.net/) - Trolly problem style questions about AI.
   
 ### YouTube
 Not exactly interactive, but still cool. I'm leaving out the **really big** names.
