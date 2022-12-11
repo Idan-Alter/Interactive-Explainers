@@ -39,3 +39,16 @@ Assorted links to explainers I like.
 ### Everything Else
 - [wave on a string (PhET)](https://phet.colorado.edu/en/simulations/wave-on-a-string)
 - [Neuron action potential (PhET)](https://phet.colorado.edu/en/simulations/neuron)
+  
+### YouTube
+Not exactly interactive, but still cool. I'm leaving out the **really big** names.
+- [Mathematical Visual Proofs](https://www.youtube.com/@MicroVisualProofs)
+- [Reducible](https://www.youtube.com/@Reducible) - CS.
+- [Freya Holmér](https://www.youtube.com/@Acegikmo) - gamedev.
+- [Dr. Trefor Bazett](https://www.youtube.com/@DrTrefor) - Math.
+- [Keenan Crane](https://www.youtube.com/@keenancrane) - Discrete differential geometry/ Graphics.
+- [Les idées froides](https://www.youtube.com/@Lesideesfroides) - Physics (French).
+- [Machine Learnia](https://www.youtube.com/@MachineLearnia) - (French)
+- [ScienceClic](https://www.youtube.com/channel/UCWvq4kcdNI1r1jZKFw9TiUA) - Moslty physics.
+- [AI Coffee Break with Letitia](https://www.youtube.com/@AICoffeeBreak)
+
