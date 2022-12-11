@@ -37,9 +37,7 @@ Assorted links to explainers I like.
 - [CindyJS](https://cindyjs.org/gallery/main/)
 - [Scrimba](https://scrimba.com/) - Frontend Video courses with live coding hybrid. 
 
-### Everything Else
-- [wave on a string (PhET)](https://phet.colorado.edu/en/simulations/wave-on-a-string)
-- [Neuron action potential (PhET)](https://phet.colorado.edu/en/simulations/neuron)
+### Misc.
 - [Moral Machine](https://www.moralmachine.net/) - Trolly problem style questions about AI.
   
 ### YouTube
