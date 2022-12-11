@@ -6,7 +6,7 @@ Assorted links to explainers I like.
 - [Hugging Face spaces](https://huggingface.co/spaces) - AI/ML based interactive apps.
 - [3b1b SoME1  (2021)](https://www.3blue1brown.com/blog/some1-results)
 - [3b1b SoME2 (2022)](https://www.3blue1brown.com/blog/some2)
-- [Geogebra Materials](https://www.geogebra.org/materials)
+- [Geogebra Materials](https://www.geogebra.org/materials) - A bit old, but huge.
 
 ### Math
 - [Weitz.de](http://weitz.de/math.html)
@@ -49,6 +49,6 @@ Not exactly interactive, but still cool. I'm leaving out the **really big** name
 - [Keenan Crane](https://www.youtube.com/@keenancrane) - Discrete differential geometry/ Graphics.
 - [Les idées froides](https://www.youtube.com/@Lesideesfroides) - Physics (French).
 - [Machine Learnia](https://www.youtube.com/@MachineLearnia) - (French)
-- [ScienceClic](https://www.youtube.com/channel/UCWvq4kcdNI1r1jZKFw9TiUA) - Moslty physics.
+- [ScienceClic](https://www.youtube.com/channel/UCWvq4kcdNI1r1jZKFw9TiUA) - Mostly physics.
 - [AI Coffee Break with Letitia](https://www.youtube.com/@AICoffeeBreak)
 
