@@ -12,7 +12,7 @@ Assorted links to explainers I like.
 - [Weitz.de](http://weitz.de/math.html)
 - [My stuff (Math Laboratory)](https://idan-alter.github.io/)
 - [immersive linear algebra](http://immersivemath.com/ila/index.html)
-- [Wiki conic sections](https://upload.wikimedia.org/wikipedia/commons/9/9a/Conic_section_interactive_visualisation.svg)
+- [Wiki conic sections](https://upload.wikimedia.org/wikipedia/commons/9/9a/Conic_section_interactive_visualisation.svg) - simple but effective
 - [iterated prisoner's dillema (ncase)](https://ncase.me/trust/)
 - [math3D.org](https://www.math3d.org/osculating_circle) - Graphing calculator with neat Calculus examples.
 - [An Interactive Introduction to Rotors from Geometric Algebra](https://marctenbosch.com/quaternions/)
