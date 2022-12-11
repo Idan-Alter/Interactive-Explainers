@@ -51,4 +51,5 @@ Not exactly interactive, but still cool. I'm leaving out the **really big** name
 - [Machine Learnia](https://www.youtube.com/@MachineLearnia) - (French)
 - [ScienceClic](https://www.youtube.com/channel/UCWvq4kcdNI1r1jZKFw9TiUA) - Mostly physics.
 - [AI Coffee Break with Letitia](https://www.youtube.com/@AICoffeeBreak)
+- [Eigenchris](https://www.youtube.com/channel/UCN8wTUlSAroLslWyf87E2pw) - Great tensor calc courses
 
