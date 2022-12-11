@@ -9,6 +9,7 @@ Assorted links to explainers I like.
 - [Geogebra Materials](https://www.geogebra.org/materials)
 
 ### Math
+- [Weitz.de](http://weitz.de/math.html)
 - [My stuff (Math Laboratory)](https://idan-alter.github.io/)
 - [immersive linear algebra](http://immersivemath.com/ila/index.html)
 - [Wiki conic sections](https://upload.wikimedia.org/wikipedia/commons/9/9a/Conic_section_interactive_visualisation.svg)
@@ -28,10 +29,12 @@ Assorted links to explainers I like.
 - [Gradient descent and momentum (Distill)](https://distill.pub/2017/momentum/)
 - [R2D3 Bias-Variance Tradeoff](http://www.r2d3.us/visual-intro-to-machine-learning-part-2/)
 - [A* Search (redblobgames.com)](https://www.redblobgames.com/pathfinding/a-star/introduction.html)
+- [The Pixel Factory](https://acko.net/files/gltalks/pixelfactory/online.html#0) - Cool interactive slides.
 
 ### Coding
 - [P5.js](https://editor.p5js.org/p5/sketches/Hello_P5:_drawing) - Easy interactive/ geometric coding
 - [Learn GDScript From Zero](https://github.com/GDQuest/learn-gdscript) - Easy programming and gamedev with Godot.
+- [CindyJS](https://cindyjs.org/gallery/main/)
 
 ### Everything Else
 - [wave on a string (PhET)](https://phet.colorado.edu/en/simulations/wave-on-a-string)
