@@ -17,7 +17,7 @@ Assorted links to explainers I like.
 - [math3D.org](https://www.math3d.org/osculating_circle) - Graphing calculator with neat Calculus examples.
 - [An Interactive Introduction to Rotors from Geometric Algebra](https://marctenbosch.com/quaternions/)
 - [Making a homing rocket](https://demoman.net/?a=trig-for-games) - Trigonometry gamedev tutorial
-- [Curves and surfaces] (https://ciechanow.ski/curves-and-surfaces/) - best explainer of curvature that I've seen.
+- [Curves and surfaces](https://ciechanow.ski/curves-and-surfaces/) - best explainer of curvature that I've seen.
 
 ### CS
 - [Turing machine simulator](https://turingmachinesimulator.com/)
