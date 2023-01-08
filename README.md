@@ -53,4 +53,5 @@ Not exactly interactive, but still cool. I'm leaving out the **really big** name
 - [AI Coffee Break with Letitia](https://www.youtube.com/@AICoffeeBreak)
 - [Eigenchris](https://www.youtube.com/channel/UCN8wTUlSAroLslWyf87E2pw) - Great tensor calc courses
 - [Josh's Channel](https://www.youtube.com/watch?v=gsZiJeaMO48) - Raytracing.
+- [Henry Segerman](https://www.youtube.com/watch?v=eGEQ_UuQtYs) - real life 3d printed hyperbolic plane models.
 
