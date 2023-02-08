@@ -9,7 +9,7 @@ Assorted links to explainers I like.
 - [Geogebra Materials](https://www.geogebra.org/materials) - A bit old, but huge.
 
 ### Math
-- [Mathe Vital](http://www.mathe-vital.de/) (German). **Specifically**: 
+- [Mathe Vital](http://www.mathe-vital.de/) (German). 
   - [iterated Linear maps](http://www.mathe-vital.de/LinAlg1/17-3.html)
   - [scalar producs](http://www.mathe-vital.de/LinAlg2/1-4.html)
   - [norms](http://www.mathe-vital.de/LinAlg2/2-4.html)
@@ -19,6 +19,8 @@ Assorted links to explainers I like.
   - [Banach's fixed point theorem](http://www.mathe-vital.de/Analysis1/4-2.html)
   - [light rays in an ellipse](http://www.mathe-vital.de/Physik/7-2.html)
 - [Weitz.de](http://weitz.de/math.html)
+  - [peasant multiplication](http://weitz.de/peasant/) 
+  - [fundamental theorem of algebra] (http://weitz.de/fund/)
 - [My stuff (Math Laboratory)](https://idan-alter.github.io/)
 - [immersive linear algebra](http://immersivemath.com/ila/index.html)
 - [Wiki conic sections](https://upload.wikimedia.org/wikipedia/commons/9/9a/Conic_section_interactive_visualisation.svg) - simple but effective
