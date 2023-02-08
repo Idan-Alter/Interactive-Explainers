@@ -3,13 +3,13 @@ Assorted links to explainers I like.
 ### Collections
 - [Explorable Explanations](https://explorabl.es/) - Huge collection in EVERY subject.
 - [PhET](https://phet.colorado.edu/) - Huge collection, STEM.
-- [Mathe Vital](http://www.mathe-vital.de/) - Math (German).
 - [Hugging Face spaces](https://huggingface.co/spaces) - AI/ML based interactive apps.
 - [3b1b SoME1  (2021)](https://www.3blue1brown.com/blog/some1-results)
 - [3b1b SoME2 (2022)](https://www.3blue1brown.com/blog/some2)
 - [Geogebra Materials](https://www.geogebra.org/materials) - A bit old, but huge.
 
 ### Math
+- [Mathe Vital](http://www.mathe-vital.de/) (German).
 - [Weitz.de](http://weitz.de/math.html)
 - [My stuff (Math Laboratory)](https://idan-alter.github.io/)
 - [immersive linear algebra](http://immersivemath.com/ila/index.html)
