@@ -20,7 +20,7 @@ Assorted links to explainers I like.
   - [light rays in an ellipse](http://www.mathe-vital.de/Physik/7-2.html)
 - [Weitz.de](http://weitz.de/math.html)
   - [peasant multiplication](http://weitz.de/peasant/) 
-  - [fundamental theorem of algebra] (http://weitz.de/fund/)
+  - [fundamental theorem of algebra](http://weitz.de/fund/)
 - [My stuff (Math Laboratory)](https://idan-alter.github.io/)
 - [immersive linear algebra](http://immersivemath.com/ila/index.html)
 - [Wiki conic sections](https://upload.wikimedia.org/wikipedia/commons/9/9a/Conic_section_interactive_visualisation.svg) - simple but effective
