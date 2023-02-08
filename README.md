@@ -11,12 +11,12 @@ Assorted links to explainers I like.
 ### Math
 - [Mathe Vital](http://www.mathe-vital.de/) (German). **Specifically**: 
   - [iterated Linear maps](http://www.mathe-vital.de/LinAlg1/17-3.html)
-  - [scalar producs]([http://www.mathe-vital.de/LinAlg1/17-3.html](http://www.mathe-vital.de/LinAlg2/1-4.html)
+  - [scalar producs](http://www.mathe-vital.de/LinAlg2/1-4.html)
   - [norms](http://www.mathe-vital.de/LinAlg2/2-4.html)
   - [regression](http://www.mathe-vital.de/LinAlg2/5-2.html)
   - [conic sections](http://www.mathe-vital.de/GeoCal/5-1.html)
   - [Hilbert curve](http://www.mathe-vital.de/Analysis1/3-3.html)
-  - [Banach's fixed point theorem]|(http://www.mathe-vital.de/Analysis1/4-2.html)
+  - [Banach's fixed point theorem](http://www.mathe-vital.de/Analysis1/4-2.html)
   - [light rays in an ellipse](http://www.mathe-vital.de/Physik/7-2.html)
 - [Weitz.de](http://weitz.de/math.html)
 - [My stuff (Math Laboratory)](https://idan-alter.github.io/)
