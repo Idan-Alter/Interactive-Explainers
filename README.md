@@ -9,7 +9,8 @@ Assorted links to explainers I like.
 - [Geogebra Materials](https://www.geogebra.org/materials) - A bit old, but huge.
 
 ### Math
-- [Mathe Vital](http://www.mathe-vital.de/) (German). 
+-[Seeing Theroy](https://seeing-theory.brown.edu/index.html) - Probability and stats 
+-[Mathe Vital](http://www.mathe-vital.de/) (German)
   - [iterated Linear maps](http://www.mathe-vital.de/LinAlg1/17-3.html)
   - [scalar producs](http://www.mathe-vital.de/LinAlg2/1-4.html)
   - [norms](http://www.mathe-vital.de/LinAlg2/2-4.html)
