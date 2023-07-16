@@ -30,6 +30,10 @@
 - [חתכי חרוט](https://upload.wikimedia.org/wikipedia/commons/9/9a/Conic_section_interactive_visualisation.svg)
 - [חתכי חרוט 2](https://cindyjs.org/gallery/main/ConicSections/)
 - [אליפסה היא חתך חרוט - הוכחה](https://www.youtube.com/watch?v=pQa_tWZmlGs)
+- [בניית חתכי חרוט עם חוט](https://www.youtube.com/watch?v=mldZ_7QwLvs)
+
+### רגע לפני שמתחילים
+- [מישור משיק](https://www.khanacademy.org/math/multivariable-calculus/applications-of-multivariable-derivatives/tangent-planes-and-local-linearization/a/tangent-planes)
 
 #### עקומות 
 - [משפט הופף (Umlaufsatz)](https://mathematik.com/Hopf/)
