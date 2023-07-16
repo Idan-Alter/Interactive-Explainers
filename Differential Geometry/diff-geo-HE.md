@@ -9,6 +9,7 @@
 ### גיאומטריה ספרית
 - [מעגלים גדולים](https://www.geogebra.org/m/WRvnNKHe#material/gC7nCaFR)
 - [משולש על ספרה](https://www.geogebra.org/m/gubjrdhg)
+- [טריג' על ספרה](https://en.wikipedia.org/wiki/Spherical_trigonometry)
 ### גיאומטריה היפרבולית
 - [הדיסק של פואנקרה](https://www.geogebra.org/m/fUCCfAEj)
 - [פסאודו-ספרה](https://www.geogebra.org/m/gvnumxrr)
