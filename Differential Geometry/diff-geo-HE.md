@@ -37,6 +37,7 @@
 
 #### עקומות 
 - [פרמטריזציה של עקומה](https://www.math3d.org/sliders_plotrange)
+- [וקטורי המהירות והתאוצה](https://www.math3d.org/motion)
 - [המעגל הנושק](https://www.math3d.org/osculating_circle)
 - [המעגל הנושק - הבניה של ניוטון](https://www.geogebra.org/m/vkwhpmth)
 - [מסגרת פרנה](https://www.math3d.org/tnb)
