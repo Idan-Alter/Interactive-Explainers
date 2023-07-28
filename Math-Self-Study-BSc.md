@@ -4,12 +4,14 @@
 Here are some recommendations about studying math with the (subjectively) best available resources. **WORK IN PROGRESS**.
 
 #### Contents:
-- [My boy's wicked smart](#my-boys-wicked-smart)
-- [Calculus](#calculus)
-- [Linear algebra and advanced calculus](#linear-algebra-and-advanced-calculus)
-- [Geometry](#geometry)
-- [Probability, stats, machine learning](#probability-stats-machine-learning)
-- [One offs](#one-offs)
+- [How I would Begin Studying Math in 2023](#how-i-would-begin-studying-math-in-2023)
+      - [Contents:](#contents)
+    - [My boy's wicked smart](#my-boys-wicked-smart)
+    - [Calculus](#calculus)
+    - [Linear algebra and advanced calculus](#linear-algebra-and-advanced-calculus)
+    - [Geometry](#geometry)
+    - [Probability, stats, machine learning](#probability-stats-machine-learning)
+    - [One offs](#one-offs)
 
 ### My boy's wicked smart
 [This line](https://www.youtube.com/watch?v=hIdsjNGCGz4&t=178s) from Good Will Hunting, 26 years later, is even more poignant, taking into account the fact that these days you don't even need to pay those 1.50$ late charges, and the fact that Youtube wasn't even someone's dream back then. Anyway, If I were to go about saving those (1997 inflation *unadjusted*) 150K USD college fees, **I'd do it like this:**
@@ -39,7 +41,9 @@ Here are some recommendations about studying math with the (subjectively) best a
 ### One offs
 1. **Complex Analysis:** [VCA](https://global.oup.com/academic/product/visual-complex-analysis-9780192868923) is the precursor to VDGF (see above, under geometry).
 2. **Nonlinear Dynamics:** Strogatz's [book](https://www.google.co.il/books/edition/Nonlinear_Dynamics_and_Chaos/1kpnDwAAQBAJ) is a masterpiece of math exposition. This is where you *really* understand how ODEs work.
-3. If you happen to speak **German**, [this](https://link.springer.com/book/10.1007/978-3-662-62618-4) is a wonderful **overview of mathematics**, targeting CS students.
+3. [**Counterexamples in Analysis**](https://store.doverpublications.com/0486428753.html). Think of this as the *Monstrous Compendium* of analysis.
+4. Proofs from the [BOOK](https://en.wikipedia.org/wiki/Proofs_from_THE_BOOK).
+5. If you happen to speak **German**, [this](https://link.springer.com/book/10.1007/978-3-662-62618-4) is a wonderful **overview of mathematics**, targeting CS students.
 
 **TBC**
 
