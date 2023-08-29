@@ -10,7 +10,8 @@ Assorted links to explainers I like.
 - [Geogebra Materials](https://www.geogebra.org/materials) - A bit old, but huge.
 
 ### Math
-- [Seeing Theroy](https://seeing-theory.brown.edu/index.html) - Probability and stats
+- [Seeing Theory](https://seeing-theory.brown.edu/index.html) - Probability and stats
+- [Euclid's Elements](https://www.c82.net/euclid/en/)
 - [Mathe Vital](http://www.mathe-vital.de/) (German)
   - [iterated Linear maps](http://www.mathe-vital.de/LinAlg1/17-3.html)
   - [scalar producs](http://www.mathe-vital.de/LinAlg2/1-4.html)
