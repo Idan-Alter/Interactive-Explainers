@@ -69,4 +69,5 @@ Not exactly interactive, but still cool. I'm leaving out the **really big** name
 - [Eigenchris](https://www.youtube.com/channel/UCN8wTUlSAroLslWyf87E2pw) - Great tensor calc courses
 - [Josh's Channel](https://www.youtube.com/watch?v=gsZiJeaMO48) - Raytracing.
 - [Henry Segerman](https://www.youtube.com/watch?v=eGEQ_UuQtYs) - real life 3d printed hyperbolic plane models.
+- [Prof Ghrist Math](https://www.youtube.com/@prof-g) - Math vids in comic book form
 
